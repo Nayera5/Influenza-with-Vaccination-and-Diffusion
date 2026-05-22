@@ -9,8 +9,9 @@
 - [Nada Hassan](https://github.com/Nadahassan147)
 - [Nada Hesham](https://github.com/Nada-Hesham249)
 
-## Github Webpage [here](https://influenza-pde-solutions.github.io/Influenza-with-Vaccination-and-Diffusion/).
-
+## [Github Webpage](https://influenza-pde-solutions.github.io/Influenza-with-Vaccination-and-Diffusion/)
+## [Project Report](https://drive.google.com/file/d/1e4FKwl37MGo-rBmDcOTCoG3TRPnVkVzC/view?usp=sharing)
+---
 ## Problem Statement & Solution Overview:
 The original problem models the spread of influenza with vaccination and spatial diffusion, and was solved in the reference work using `the Method of Lines (MOL)`.
 , as required to implement two numerical solution schemes in addition to the book,
